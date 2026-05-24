@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- Dynamic Sleek Slice Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0c10,50:071d18,100:0a0f1d&height=220&section=header&text=Mihir%20Katoch&fontSize=75&fontColor=39ff14&animation=twinkling&fontAlignY=45&desc=%E2%98%A2%EF%B8%8F%20Red%20Team%20Operator%20%7C%20AI%20Security%20Researcher&descAlignY=65&descSize=18&descColor=00d4ff" width="100%" alt="Mihir Katoch Cyber Banner" />
+  <!-- Custom Professional Cyber Security Widescreen Banner -->
+  <img src="assets/banner.png" width="100%" alt="Mihir Katoch Cyber Banner" />
 
   <br/>
 
