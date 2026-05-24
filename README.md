@@ -48,19 +48,13 @@
 
 ### 👁️ About Me / Operator Profile
 
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Left Column: Stylized Mock Kali Terminal -->
-    <td valign="top" width="60%">
-      <div align="left" style="background-color: #0b0c10; border: 1px solid #1f2833; border-radius: 8px; padding: 12px; font-family: 'Fira Code', 'Courier New', monospace; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
-        <!-- Mock Window Controls -->
-        <span style="color: #ff5f56; font-size: 18px; margin-right: 4px;">●</span>
-        <span style="color: #ffbd2e; font-size: 18px; margin-right: 4px;">●</span>
-        <span style="color: #27c93f; font-size: 18px; margin-right: 15px;">●</span>
-        <span style="color: #45f3ff; font-size: 12px;">┌──(mihir㉿kali)-[~]</span>
-        <pre style="margin-top: 5px; color: #a9b7c6; font-size: 13px; line-height: 1.4;">
+<div align="left" style="background-color: #0b0c10; border: 1px solid #1f2833; border-radius: 8px; padding: 16px; font-family: 'Fira Code', 'Courier New', monospace; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6); max-width: 800px; margin: 0 auto;">
+  <!-- Mock Window Controls -->
+  <span style="color: #ff5f56; font-size: 18px; margin-right: 4px;">●</span>
+  <span style="color: #ffbd2e; font-size: 18px; margin-right: 4px;">●</span>
+  <span style="color: #27c93f; font-size: 18px; margin-right: 15px;">●</span>
+  <span style="color: #45f3ff; font-size: 13px;">┌──(mihir㉿kali)-[~]</span>
+  <pre style="margin-top: 5px; color: #a9b7c6; font-size: 14px; line-height: 1.5;">
 <span style="color: #45f3ff;">┌──(mihir㉿kali)-[~]</span>
 <span style="color: #39ff14;">└─$ whoami</span>
 mihir
@@ -90,20 +84,6 @@ philosophy = <span style="color: #f1fa8c;">"Find the boundary before someone els
 
 <span style="color: #45f3ff;">┌──(mihir㉿kali)-[~]</span>
 <span style="color: #39ff14;">└─$ _</span></pre>
-      </div>
-    </td>
-    <!-- Right Column: Top Languages Card & Custom Typewriter -->
-    <td valign="middle" align="center" width="40%">
-      <!-- Live Top Languages Card (Tokyo Night/Custom Theme) -->
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=0xMihirK&layout=compact&hide_border=true&bg_color=0b0c10&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="95%" style="border-radius: 8px; border: 1px solid #1f2833;" />
-      <br/><br/>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=320&height=30&lines=%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+whoami;mihir;%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+cat+operator.conf;name+%3D+Mihir+Katoch+%7C+0xMihirK;role+%3D+Red+Team+Operator;focus+%3D+LLM+Security+Research;status+%3D+%5B+ACTIVE+]" alt="Kali Terminal Mini Typing" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
