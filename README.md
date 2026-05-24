@@ -3,9 +3,11 @@
 <div align="center">
 
   <!-- Perfectly Sized Hacker Giphy Banner (Constrained with HTML width attribute to keep it sharp and centered) -->
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" alt="Hacker Workspace Banner" />
+  <p align="center">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" alt="Hacker Workspace Banner" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <!-- Large Bold Name & Role SVG -->
   <a href="https://git.io/typing-svg">
@@ -83,17 +85,24 @@ philosophy: "To build the shield, you must first master the sword."
 
 ---
 
-### 🛡️ Featured Projects
+### 🛡️ Featured Project
 
-#### 🐳 [Hercules MCP](https://github.com/0xMihirK/hercules-mcp) — *Offensive Security for AI Agents*
-> An elite Model Context Protocol (MCP) server that empowers AI agents to perform professional, autonomous penetration testing inside a containerized sandbox.
-
-*   **Sandbox-First:** Spawns ephemeral, isolated Docker containers based on `kalilinux/kali-rolling` to run exploits safely.
-*   **Token-Cost Optimized:** Custom-parses verbose CLI banners and redundant raw XML output, returning only the essential data to optimize agent context window costs.
-*   **Elite Tooling:** Exposes Nmap, Metasploit, SQLMap, Nuclei, Nikto, WPScan, Gobuster, and searchsploit as structured, parameter-typed tools.
-*   **Agent Control:** Equips the AI agent to dynamically manage its own session instances and persist scan logs within a local workspace.
-
-`Model Context Protocol` &bull; `Docker` &bull; `Kali Linux` &bull; `Python` &bull; `FastMCP`
+> ### 🐳 [Hercules MCP](https://github.com/0xMihirK/hercules-mcp) &bull; `ACTIVE DEPLOYMENT`
+> **Offensive Security for AI Agents through the Model Context Protocol (MCP)**
+> 
+> Exposes pre-installed offensive security tools (Nmap, Metasploit, SQLMap, Nuclei, WPScan, Gobuster) as structured, typed MCP tools that AI agents can reason about and execute autonomously.
+> 
+> *   **🐳 Ephemeral Sandboxing:** Spawns isolated Docker containers based on `kalilinux/kali-rolling` to run exploits safely.
+> *   **⚡ Token-Cost Optimized:** Custom-parses verbose CLI banners and redundant raw XML output to minimize context token costs.
+> *   **📂 Persistent Workspaces:** Automatically saves scan logs, downloaded loot, and session files in the local workspace directory.
+> *   **🤖 Agent-Managed Sessions:** Equips the AI agent to dynamically manage, start, stop, and configure its own test environments.
+> 
+> <p align="left">
+>   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Model_Context_Protocol-00D4FF?style=flat-square&logo=json&logoColor=white" alt="MCP" />
+>   &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+>   &nbsp;<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
+>   &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+> </p>
 
 ---
 
