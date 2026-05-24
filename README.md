@@ -1,56 +1,109 @@
-<!-- Premium Dark-Theme GitHub Profile README for 0xMihirK -->
+<!-- Cyberpunk Matrix Dark-Theme GitHub Profile README for 0xMihirK -->
 
 <div align="center">
 
-  <!-- Floating Typewriter Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mihir+Katoch!+%F0%9F%91%8B;TUI+%26+CLI+Developer+%F0%9F%90%A7;Python+Backend+Engineer+%F0%9F%90%8D;Offensive+Security+Creator+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG Banner" />
+  <!-- Dynamic Sharp Venom/Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a0a,60:001a00,100:0d0221&height=280&section=header&text=Mihir%20Katoch&fontSize=80&fontColor=39ff14&animation=twinkling&fontAlignY=45&stroke=39ff14&strokeWidth=2&desc=%E2%98%A2%EF%B8%8F%20Red%20Team%20%7C%20AI%20Security%20%7C%20Adversarial%20Emulation&descAlignY=65&descSize=18&descColor=00d4ff" width="100%" alt="Mihir Katoch Cyber Banner" />
 
+  <br/>
+
+  <!-- High-Fidelity Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%93+Pentesting+%7C+Red+Teaming+%7C+Threat+Modeling;%F0%9F%A4%96+Breaking+LLMs+%7C+Securing+AI+Agents;%F0%9F%94%8D+Prompt+Injection+Research;%F0%9F%90%8D+Adversarial+Emulation+%7C+APT+Simulation;%24+whoami+--+0xMihirK" alt="Typing SVG Animation" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Symmetrically Aligned Social Badges -->
+  <a href="https://linkedin.com/in/mihirkatoch" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mihirkatoch" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://tryhackme.com/p/mihir.katoch" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://www.hackthebox.com" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
+  </a>
+  <a href="mailto:mihirkatoch@proton.me">
+    <img height="32" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Engagement Indicators -->
   <p align="center">
-    <strong>TUI Enthusiast • Offensive Security Tool Builder • Pythonista</strong>
+    <img src="https://komarev.com/ghpvc/?username=0xMihirK&label=Profile+Views&color=39ff14&style=flat-square" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/0xMihirK?label=Followers&style=flat-square&color=39ff14" alt="Followers Count" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/0xMihirK?style=flat-square&color=39ff14&label=Total+Stars" alt="Stars Count" />
   </p>
-
-  <!-- Sleek Metrics Badges -->
-  <p align="center">
-    <a href="https://github.com/0xMihirK">
-      <img src="https://img.shields.io/github/followers/0xMihirK?label=Followers&style=for-the-badge&color=00FFCC&labelColor=161b22" alt="Followers Badge" />
-    </a>
-    <a href="https://github.com/0xMihirK">
-      <img src="https://img.shields.io/github/stars/0xMihirK?style=for-the-badge&color=BD93F9&labelColor=161b22" alt="Stars Badge" />
-    </a>
-    <a href="https://github.com/0xMihirK">
-      <img src="https://komarev.com/normal-badge/?username=0xMihirK&style=for-the-badge&color=ff79c6&label=Profile+Views&labelColor=161b22" alt="Visitor Counter" />
-    </a>
-  </p>
-
-  <!-- Header Wave Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5&height=120&section=header&text=&fontSize=90" width="100%" alt="Header Wave" />
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 👁️ About Me / Operator Profile
 
-<table border="0">
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>
-        I am a software engineer focused on building highly responsive <strong>Terminal User Interfaces (TUIs)</strong>, secure backend architectures, and agentic offensive security tools. I design systems that bridge the gap between AI models and rich local sandboxes.
-      </p>
-      <ul>
-        <li>🔭 Working on <strong>Hercules MCP</strong> — exposing elite Kali Linux offensive tools directly to AI agents.</li>
-        <li>✍️ Developed <strong>tuxtype</strong> — a fully-offline terminal-based typing speed test package published on PyPI.</li>
-        <li>💡 Exploring model context protocol (MCP) servers, containerized sandboxes, and keyboard-driven applications.</li>
-        <li>💬 Ask me about: <strong>Python, Textual, Rich, Docker, Offsec Tools, and MCP</strong>.</li>
-        <li>📫 Drop a line: <a href="mailto:0xMihirK@users.noreply.github.com">0xMihirK@users.noreply.github.com</a></li>
-      </ul>
+    <!-- Left Column: Stylized Mock Kali Terminal -->
+    <td valign="top" width="60%">
+      <div align="left" style="background-color: #0b0c10; border: 1px solid #1f2833; border-radius: 8px; padding: 12px; font-family: 'Fira Code', 'Courier New', monospace; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
+        <!-- Mock Window Controls -->
+        <span style="color: #ff5f56; font-size: 18px; margin-right: 4px;">●</span>
+        <span style="color: #ffbd2e; font-size: 18px; margin-right: 4px;">●</span>
+        <span style="color: #27c93f; font-size: 18px; margin-right: 15px;">●</span>
+        <span style="color: #45f3ff; font-size: 12px;">┌──(mihir㉿kali)-[~]</span>
+        <pre style="margin-top: 5px; color: #a9b7c6; font-size: 13px; line-height: 1.4;">
+<span style="color: #45f3ff;">┌──(mihir㉿kali)-[~]</span>
+<span style="color: #39ff14;">└─$ whoami</span>
+mihir
+
+<span style="color: #45f3ff;">┌──(mihir㉿kali)-[~]</span>
+<span style="color: #39ff14;">└─$ cat /etc/operator.conf</span>
+<span style="color: #ff79c6;">[OPERATOR]</span>
+name       = Mihir Katoch
+handle     = 0xMihirK
+role       = Red Team Operator
+           | AI Security Researcher
+location   = India 🇮🇳
+
+<span style="color: #ff79c6;">[FOCUS]</span>
+primary    = Red Teaming & Adversarial Emulation
+           | Penetration Testing (Web / Net / AI)
+           | Threat Modeling & Kill Chain Ops
+
+<span style="color: #ff79c6;">[RESEARCH]</span>
+active     = LLM Attack Surfaces & Jailbreaking
+           | Secure Agentic AI Pipelines
+           | Prompt Injection Mitigation
+
+<span style="color: #ff79c6;">[STATUS]</span>
+current    = ● <span style="color: #39ff14;">ACTIVE</span> -- Hunting LLM trust boundaries
+philosophy = <span style="color: #f1fa8c;">"Find the boundary before someone else does"</span>
+
+<span style="color: #45f3ff;">┌──(mihir㉿kali)-[~]</span>
+<span style="color: #39ff14;">└─$ _</span></pre>
+      </div>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Live Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMihirK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="280px" />
+    <!-- Right Column: Visual Hacking GIF & Custom Typewriter -->
+    <td valign="middle" align="center" width="40%">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="95%" style="border-radius: 8px; border: 1px solid #1f2833;" alt="Hacking GIF" />
+      <br/><br/>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=320&height=30&lines=%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+whoami;mihir;%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+cat+operator.conf;name+%3D+Mihir+Katoch+%7C+0xMihirK;role+%3D+Red+Team+Operator;focus+%3D+LLM+Security+Research;status+%3D+%5B+ACTIVE+]" alt="Kali Terminal Mini Typing" />
+      </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -58,16 +111,16 @@
 
 <div align="left">
 
-#### 🐳 [Hercules MCP](https://github.com/0xMihirK/hercules-mcp) — *Offensive Security for AI Agents*
-> A Model Context Protocol (MCP) server that empowers AI agents to perform professional, autonomous penetration testing inside a containerized sandbox.
+#### 🐳 [Hercules MCP](https://github.com/0xMihirK/hercules-mcp) — *Offensive Security for AI Agents through the Model Context Protocol*
+> An elite Model Context Protocol (MCP) server that empowers AI agents to perform professional penetration testing and security orchestration.
 
-*   **Sandbox-First:** Spawns ephemeral, isolated Docker containers based on `kalilinux/kali-rolling` to run exploits safely.
-*   **Token-Optimized:** Custom-parses verbose CLI banners and redundant raw XML output, returning only the essential data to optimize agent context window costs.
-*   **Elite Tooling:** Exposes Nmap, Nikto, Nuclei, SQLMap, Metasploit, Arjun, Gobuster, and searchsploit as structured, parameter-typed tools.
-*   **Agent Control:** Equips the AI agent to dynamically manage its own session instances and persist scan logs within a local workspace.
+*   **Sandbox-First Architecture:** Orchestrates an ephemeral, isolated Docker environment based on `kalilinux/kali-rolling`. Host machines are never exposed.
+*   **Token-Cost Optimized:** Formats and filters verbose CLI outputs and raw tool reports (XML/JSON), returning clean, parsed payload data directly to the agent's context.
+*   **Agent-Driven Sessions:** Equips the AI agent to start, stop, and control dockerized testing environments dynamically.
+*   **Pre-installed Toolkits:** Exposes pre-configured offensive tools (Nmap, Metasploit Framework, Nuclei, SQLMap, Gobuster, Nikto, and Searchsploit) as structured, typed MCP tools.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-3776AB?style=flat-square&logoColor=white" alt="MCP Enabled" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-00D4FF?style=flat-square&logo=json&logoColor=white" alt="MCP Enabled" />
   <img src="https://img.shields.io/badge/Docker-Kali_Linux-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/License-MIT-F57C00?style=flat-square" alt="MIT License" />
@@ -75,101 +128,87 @@
 
 ---
 
-#### ⌨️ [tuxtype](https://github.com/0xMihirK) — *Monkeytype-Inspired Terminal Typing Test*
-> A highly responsive, offline terminal speed-test application that runs natively in your shell, built with Python, Textual, and Rich.
+#### ⌨️ [tuxtype](https://github.com/0xMihirK) — *Monkeytype-Inspired Terminal Typing Speed Test*
+> A highly interactive, ultra-customizable typing speed test that runs completely offline and natively inside your shell.
 
-*   **Interactive TUI:** Sleek keyboard animations, custom words, and real-time timing test modes.
-*   **Live Metrics:** Computes high-accuracy WPM, character consistency, and real-time accuracy percentages.
-*   **Performance Graphing:** Renders an elegant terminal-based performance chart summarizing your speed trends over time.
-*   **Cross-Platform:** Pure Python implementation, completely offline, easily installable via pip.
+*   **Responsive TUI Design:** Built using Textual and Rich with interactive key animations and test layouts.
+*   **Performance Graphing:** Renders visual, terminal-based character statistics and speed curves over time.
+*   **Deep Customization:** Supports words/time test modes, customized levels of difficulty, and full offline scoring.
 
 ```bash
-# Install and run tuxtype instantly from PyPI
+# Get it up and running instantly via PyPI
 pip install tuxtype
 tuxtype
 ```
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyPI-Package-FFD242?style=flat-square&logo=pypi&logoColor=white" alt="PyPI Badge" />
+  <img src="https://img.shields.io/badge/TUI-Textual%20%26%20Rich-CF63CF?style=flat-square" alt="Textual Badge" />
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TUI-Textual%20%26%20Rich-CF63CF?style=flat-square" alt="Textual" />
 </p>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Interactive Skill Matrix
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>💻 Languages</strong><br />
+      <strong>💻 Languages & Scripting</strong><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     </td>
     <td width="50%" valign="top">
-      <strong>🛡️ Offensive Security & DevOps</strong><br />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <strong>💀 Offensive Security & Penetration Testing</strong><br />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+      <img src="https://img.shields.io/badge/Metasploit-E32B30?style=for-the-badge&logo=rapid7&logoColor=white" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Nmap" />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>✨ TUI & UI Frameworks</strong><br />
-      <img src="https://img.shields.io/badge/Textual-CF63CF?style=for-the-badge&logo=python&logoColor=white" alt="Textual" />
-      <img src="https://img.shields.io/badge/Rich-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Rich" />
+      <strong>🤖 AI Security & Adversarial Emulation</strong><br />
+      <img src="https://img.shields.io/badge/Model_Context_Protocol-00D4FF?style=for-the-badge&logo=json&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/LLM_Jailbreak-FF4F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Security" />
+      <img src="https://img.shields.io/badge/Red_Teaming-D00000?style=for-the-badge&logo=sensu&logoColor=white" alt="Red Teaming" />
     </td>
     <td width="50%" valign="top">
-      <strong>⚙️ Protocols & Architectures</strong><br />
-      <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00FFCC?style=for-the-badge&logo=json&logoColor=white" alt="MCP" />
-      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
+      <strong>⚙️ Platform & Infrastructure</strong><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions" />
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Real-time GitHub Stats
+### 📊 Tactical Metrics & Contributions
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xMihirK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="0xMihirK GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=tokyonight&hide_border=true&background=0d1117" alt="0xMihirK Streak Stats" width="48%" />
-  </p>
+  <table border="0">
+    <tr>
+      <td>
+        <!-- Customized dark/matrix themed general stats card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=0xMihirK&show_icons=true&bg_color=0d1117&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9&hide_border=true" alt="0xMihirK's GitHub Stats" width="410px" />
+      </td>
+      <td>
+        <!-- Customized dark/matrix themed streak stats card -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=dark&background=0d1117&hide_border=true&ring=39ff14&fire=39ff14&currStreakNum=00d4ff&sideLabels=ffffff&dates=00d4ff" alt="0xMihirK's Streak" width="410px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-### 🌐 Connect With Me
+<br/>
 
 <div align="center">
-  
-  <a href="https://github.com/0xMihirK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:0xMihirK@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://pypi.org/user/0xMihirK/" target="_blank">
-    <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Profile" />
-  </a>
-  <a href="https://twitter.com/0xMihirK" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/mihir-katoch" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
+  <!-- Dynamic Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5&height=80&section=footer&text=" width="100%" alt="Footer Wave" />
 </div>
