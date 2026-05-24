@@ -152,6 +152,11 @@ philosophy: "To build the shield, you must first master the sword."
   
   <br/><br/>
 
+  <!-- Centered Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/0xMihirK/0xMihirK/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="830" />
+  
+  <br/><br/>
+
   <!-- Dynamic Contribution Graph themed in matrix green -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMihirK&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=00d4ff&hide_border=true" alt="0xMihirK's Contribution Graph" width="830" />
 
