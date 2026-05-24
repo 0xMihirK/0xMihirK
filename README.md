@@ -56,26 +56,26 @@ Here is a look inside my terminal configuration and core focus:
 mihir
 
 ┌──(mihir㉿kali)-[~]
-└─$ cat /etc/operator.conf
-[OPERATOR]
-name       = Mihir Katoch
-handle     = 0xMihirK
-role       = Red Team Operator & AI Security Researcher
-location   = India 🇮🇳
+└─$ cat ~/.config/operator.yaml
+# Operator Profile Configuration
+operator:
+  name: "Mihir Katoch"
+  handle: "0xMihirK"
+  role: "Red Team Operator & AI Security Researcher"
+  location: "India 🇮🇳"
+  status: "ACTIVE // hunting LLM trust boundaries"
 
-[FOCUS]
-primary    = Red Teaming & Adversarial Emulation
-           | Penetration Testing (Web / Net / AI)
-           | Threat Modeling & Kill Chain Ops
+capabilities:
+  offensive:
+    - "Adversarial Emulation & Red Teaming"
+    - "Network/Web Penetration Testing"
+    - "Threat Modeling & Kill Chain Ops"
+  ai_security:
+    - "LLM Attack Surfaces & Jailbreaking"
+    - "Secure Agentic AI Pipelines (MCP)"
+    - "Prompt Injection Research & Mitigation"
 
-[RESEARCH]
-active     = LLM Attack Surfaces & Jailbreaking
-           | Secure Agentic AI Pipelines
-           | Prompt Injection Mitigation
-
-[STATUS]
-current    = ● ACTIVE -- Hunting LLM trust boundaries
-philosophy = "Find the boundary before someone else does"
+philosophy: "Find the boundary before someone else does."
 
 ┌──(mihir㉿kali)-[~]
 └─$ _
