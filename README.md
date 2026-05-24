@@ -75,7 +75,7 @@ capabilities:
     - "Secure Agentic AI Pipelines (MCP)"
     - "Prompt Injection Research & Mitigation"
 
-philosophy: "Exposing the vulnerabilities of today to secure the intelligence of tomorrow."
+philosophy: "To build the shield, you must first master the sword."
 
 ┌──(mihir㉿kali)-[~]
 └─$ _
