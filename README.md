@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <!-- Custom Professional Cyber Security Widescreen Banner -->
-  <img src="assets/banner.png" width="100%" alt="Mihir Katoch Cyber Banner" />
+  <!-- Cyber Hacking Giphy Header Banner -->
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" style="border-radius: 8px; border: 2px solid #39ff14; box-shadow: 0 0 20px rgba(57, 255, 20, 0.3);" alt="Mihir Katoch Cyber Banner" />
 
-  <br/>
+  <br/><br/>
 
   <!-- High-Fidelity Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -92,9 +92,10 @@ philosophy = <span style="color: #f1fa8c;">"Find the boundary before someone els
 <span style="color: #39ff14;">└─$ _</span></pre>
       </div>
     </td>
-    <!-- Right Column: Visual Hacking GIF & Custom Typewriter -->
+    <!-- Right Column: Top Languages Card & Custom Typewriter -->
     <td valign="middle" align="center" width="40%">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="95%" style="border-radius: 8px; border: 1px solid #1f2833;" alt="Hacking GIF" />
+      <!-- Live Top Languages Card (Tokyo Night/Custom Theme) -->
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=0xMihirK&layout=compact&hide_border=true&bg_color=0b0c10&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="95%" style="border-radius: 8px; border: 1px solid #1f2833;" />
       <br/><br/>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=39FF14&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=320&height=30&lines=%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+whoami;mihir;%E2%94%8C%E2%94%80%E2%94%80(mihir%E2%8A%99kali)-[~];%E2%94%94%E2%94%80%24+cat+operator.conf;name+%3D+Mihir+Katoch+%7C+0xMihirK;role+%3D+Red+Team+Operator;focus+%3D+LLM+Security+Research;status+%3D+%5B+ACTIVE+]" alt="Kali Terminal Mini Typing" />
