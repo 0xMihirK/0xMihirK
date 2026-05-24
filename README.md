@@ -93,7 +93,7 @@ philosophy: "To build the shield, you must first master the sword."
 *   **Elite Tooling:** Exposes Nmap, Metasploit, SQLMap, Nuclei, Nikto, WPScan, Gobuster, and searchsploit as structured, parameter-typed tools.
 *   **Agent Control:** Equips the AI agent to dynamically manage its own session instances and persist scan logs within a local workspace.
 
-`Model Context Protocol` &bull; `Docker` &bull; `Kali Linux` &bull; `Python` &bull; `REST API`
+`Model Context Protocol` &bull; `Docker` &bull; `Kali Linux` &bull; `Python` &bull; `MCP`
 
 ---
 
@@ -146,16 +146,6 @@ philosophy: "To build the shield, you must first master the sword."
 ### 📊 Tactical Metrics & Contributions
 
 <div align="center">
-  
-  <!-- Symmetric Streak Card (Theme: Dark, accents matrix-green and neon-cyan) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=dark&background=0d1117&hide_border=true&ring=39ff14&fire=39ff14&currStreakNum=00d4ff&sideLabels=ffffff&dates=00d4ff" alt="0xMihirK's Streak" width="500" />
-  
-  <br/><br/>
-
-  <!-- Dynamic Contribution Graph themed in matrix green -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMihirK&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=00d4ff&hide_border=true" alt="0xMihirK's Contribution Graph" width="830" />
-
-  <br/><br/>
 
   <!-- Centered Contribution Snake Animation at End -->
   <img src="https://raw.githubusercontent.com/0xMihirK/0xMihirK/output/github-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="830" />
