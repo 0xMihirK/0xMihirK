@@ -97,24 +97,6 @@ philosophy = "Find the boundary before someone else does"
 
 ---
 
-#### ⌨️ [tuxtype](https://github.com/0xMihirK) — *Monkeytype-Inspired Terminal Typing Speed Test*
-> A highly interactive, offline terminal speed-test application that runs natively in your shell, built with Python, Textual, and Rich.
-
-*   **Interactive TUI:** Sleek keyboard animations, custom words, and real-time timing test modes.
-*   **Live Metrics:** Computes high-accuracy WPM, character consistency, and real-time accuracy percentages.
-*   **Performance Graphing:** Renders an elegant terminal-based performance chart summarizing your speed trends over time.
-*   **Cross-Platform:** Pure Python implementation, completely offline, easily installable via PyPI.
-
-```bash
-# Install and run tuxtype instantly from PyPI
-pip install tuxtype
-tuxtype
-```
-
-`Python` &bull; `Textual` &bull; `Rich` &bull; `TUI` &bull; `PyPI`
-
----
-
 ### 🛠️ Interactive Skill Matrix
 
 | Category | Tools & Technologies |
@@ -130,8 +112,8 @@ tuxtype
 
 <div align="center">
   <p>
-    <!-- Customized dark/matrix themed general stats card using a reliable git-master mirror -->
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=0xMihirK&show_icons=true&bg_color=0d1117&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9&hide_border=true" alt="0xMihirK's GitHub Stats" width="410" />
+    <!-- Customized dark themed general stats card using a highly stable independent provider -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMihirK&theme=dracula" alt="0xMihirK's GitHub Stats" width="410" />
     &nbsp;&nbsp;
     <!-- Customized dark/matrix themed streak stats card -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=dark&background=0d1117&hide_border=true&ring=39ff14&fire=39ff14&currStreakNum=00d4ff&sideLabels=ffffff&dates=00d4ff" alt="0xMihirK's Streak" width="410" />
