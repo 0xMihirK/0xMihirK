@@ -1,15 +1,15 @@
-<!-- Cyberpunk Dark-Theme GitHub Profile README for 0xMihirK -->
+<!-- Premium Minimal Dark-Theme GitHub Profile README for 0xMihirK -->
 
 <div align="center">
 
   <!-- Perfectly Sized Hacker Giphy Banner (Constrained with HTML width attribute to keep it sharp and centered) -->
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="550" alt="Hacker Workspace Banner" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" alt="Hacker Workspace Banner" />
 
   <br/><br/>
 
-  <!-- Glowing Typewriter Role Animation -->
+  <!-- Large Bold Name & Role SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Mihir+Katoch;Red+Team+Operator;AI+Security+Researcher;Adversarial+Emulation;0xMihirK" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=0xMihirK;Mihir+Katoch;Red+Team+Operator;AI+Security+Researcher;Adversarial+Emulation" alt="Typing SVG Animation" />
   </a>
 
   <p>
@@ -97,30 +97,62 @@ philosophy = "Find the boundary before someone else does"
 
 ---
 
-### 🛠️ Interactive Skill Matrix
+### 🛠️ Tech Stack & Capabilities
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Scripting** | `Python` `Bash` `SQL` `C++` `HTML5` `CSS3` `JavaScript` |
-| **Offensive Security** | `Kali Linux` `Metasploit` `Nmap` `OWASP Top 10` `SQLMap` `Nuclei` `Gobuster` |
-| **AI & LLM Security** | `Model Context Protocol (MCP)` `LLM Jailbreaking` `Prompt Injection` |
-| **Platform & DevOps** | `Docker` `Git` `GitHub Actions` `Linux Kernel` `AWS` |
+<div align="center">
+
+  <strong>💻 Languages & Scripting</strong>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </p>
+
+  <strong>💀 Offensive Security & Penetration Testing</strong>
+  <p>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
+    <img src="https://img.shields.io/badge/Metasploit-E32B30?style=flat-square&logo=rapid7&logoColor=white" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Nmap-007ACC?style=flat-square&logo=wireshark&logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+    <img src="https://img.shields.io/badge/SQLMap-008080?style=flat-square" alt="SQLMap" />
+    <img src="https://img.shields.io/badge/Nuclei-0080FF?style=flat-square" alt="Nuclei" />
+  </p>
+
+  <strong>🤖 AI Security & Emulation Protocols</strong>
+  <p>
+    <img src="https://img.shields.io/badge/Model_Context_Protocol-00D4FF?style=flat-square&logo=json&logoColor=white" alt="MCP" />
+    <img src="https://img.shields.io/badge/LLM_Jailbreak-FF4F00?style=flat-square&logo=openai&logoColor=white" alt="LLM Security" />
+    <img src="https://img.shields.io/badge/Red_Teaming-D00000?style=flat-square&logo=sensu&logoColor=white" alt="Red Teaming" />
+    <img src="https://img.shields.io/badge/Docker_Sandbox-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Sandbox" />
+  </p>
+
+  <strong>⚙️ Platform & Infrastructure</strong>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
+    <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </p>
+
+</div>
 
 ---
 
 ### 📊 Tactical Metrics & Contributions
 
 <div align="center">
-  <p>
-    <!-- Customized dark themed general stats card using a highly stable independent provider -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMihirK&theme=dracula" alt="0xMihirK's GitHub Stats" width="410" />
-    &nbsp;&nbsp;
-    <!-- Customized dark/matrix themed streak stats card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=dark&background=0d1117&hide_border=true&ring=39ff14&fire=39ff14&currStreakNum=00d4ff&sideLabels=ffffff&dates=00d4ff" alt="0xMihirK's Streak" width="410" />
-  </p>
   
-  <br/>
+  <!-- Symmetric Streak Card (Theme: Dark, accents matrix-green and neon-cyan) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMihirK&theme=dark&background=0d1117&hide_border=true&ring=39ff14&fire=39ff14&currStreakNum=00d4ff&sideLabels=ffffff&dates=00d4ff" alt="0xMihirK's Streak" width="500" />
+  
+  <br/><br/>
 
   <!-- Dynamic Contribution Graph themed in matrix green -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMihirK&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=00d4ff&hide_border=true" alt="0xMihirK's Contribution Graph" width="830" />
+
 </div>
