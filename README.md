@@ -196,7 +196,7 @@ tuxtype
     <tr>
       <td>
         <!-- Customized dark/matrix themed general stats card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=0xMihirK&show_icons=true&bg_color=0d1117&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9&hide_border=true" alt="0xMihirK's GitHub Stats" width="410px" />
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=0xMihirK&show_icons=true&bg_color=0d1117&title_color=39ff14&icon_color=00d4ff&text_color=c9d1d9&hide_border=true" alt="0xMihirK's GitHub Stats" width="410px" />
       </td>
       <td>
         <!-- Customized dark/matrix themed streak stats card -->
@@ -204,6 +204,9 @@ tuxtype
       </td>
     </tr>
   </table>
+  <br/>
+  <!-- Dynamic Contribution Graph themed in matrix green -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMihirK&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=00d4ff&hide_border=true" alt="0xMihirK's Contribution Graph" width="830px" />
 </div>
 
 <br/>
